@@ -9,6 +9,9 @@ This is the source code of Zombie Master, based on the Source SDK
 ("HL2 Episode 1" version). For questions, discussion, etc., please visit 
 the forums at www.zombiemaster.org
 
+### SOURCE CODE TAKEN FROM HERE ###
+http://www.moddb.com/mods/zombie-master/downloads
+
 Some basic information is contained in this document.
 
 ***************************************
